@@ -49,8 +49,11 @@ A minimal Solution to reproduce the issue can be found [here](https://github.com
 ### Configuration
 
 Operating System: Windows 11 Enterprise 64-Bit (10.0, Build 22621)
+
 Framework Version: .NET 6 
+
 Packages: Fody 6.6.4, NullGuard.Fody 3.1.0
+
 x64
 
 

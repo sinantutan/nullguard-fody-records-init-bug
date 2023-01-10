@@ -1,3 +1,5 @@
+The Issue is posted in the [NullGuard.Fody repository with nr. 598](https://github.com/Fody/NullGuard/issues/598).
+
 ### Problem
 
 When run with NullGuard the record below named `FooRecordWithInit` returns a `System.InvalidProgramException: 'Common Language Runtime detected an invalid program.'` .
